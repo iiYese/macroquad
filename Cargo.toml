@@ -37,8 +37,8 @@ log = { version = "0.4", optional = true }
 quad-snd = { version = "0.2", optional = true }
 
 [dependencies.miniquad]
-git = "https://github.com/not-fl3/miniquad.git"
-rev = "5c74b77"
+git = "https://github.com/iiYese/miniquad.git"
+rev = "ca1ba9c"
 features = ["log-impl"]
 
 [dev-dependencies]
